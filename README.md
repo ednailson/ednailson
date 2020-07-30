@@ -4,6 +4,6 @@
 
 🎓 computer engineering student at [UNIFACS](https://www.unifacs.br/)
 
-🐦 [@juniorvbc](twitter.com/juniorvbc)
+🐦 [@juniorvbc](https://twitter.com/juniorvbc)
 
-🔗 [website](ednailson.github.io)
+🔗 [website](https://ednailson.github.io)
