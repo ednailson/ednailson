@@ -1,6 +1,6 @@
 # a.k.a junior
 
-💼 working at [ntopus](https://www.ntopus.com.br/)
+💼 working at [hashlab](https://www.hash.com.br/)
 
 🎓 computer engineering student at [UNIFACS](https://www.unifacs.br/)
 
