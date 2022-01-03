@@ -6,4 +6,4 @@
 
 🐦 [@juniorvbc](https://twitter.com/juniorvbc)
 
-🔗 [website](https://ednailson.github.io)
+🔗 [linkedin](https://www.linkedin.com/in/ednailsonvb/)
