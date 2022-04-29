@@ -1,6 +1,6 @@
 # a.k.a junior
 
-💼 working at [hashlab](https://www.hash.com.br/)
+💼 working at [opera](https://www.opera.com/)
 
 🎓 computer engineer
 
