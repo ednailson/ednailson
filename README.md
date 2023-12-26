@@ -1,7 +1,5 @@
 # a.k.a junior
 
-💼 working at [opera](https://www.opera.com/)
-
 🎓 computer engineer
 
 🐦 [@juniorvbc](https://twitter.com/juniorvbc)
